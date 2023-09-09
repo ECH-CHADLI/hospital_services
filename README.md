@@ -12,7 +12,7 @@ Students have the right to fill out the form to intern inside the hospital.
 And finally anyone can make complaints and comments if any inconvinience arises.
 => The response of the _admins_ comes in the form of an email sent directly from the website, either automatically or manually
 
-### Technologies used
+### `technologies used`
 ReactJS (frontend and routing)
 Firebase (database and backend)
 emailJS (handling email responses from _admins_)
