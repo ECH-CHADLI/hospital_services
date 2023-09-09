@@ -1,7 +1,7 @@
 ## Hospital services web app
 
 ### `link`
-[Link to the project] (hospital-services-c180b.firebaseapp.com) 
+[Link to the project] (https://hospital-services-c180b.firebaseapp.com) 
 
 ### `purpose`
 this web application is for both _admins_ and _users_.
